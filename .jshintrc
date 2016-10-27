@@ -1,0 +1,15 @@
+{
+    "curly": true,
+    "unused": true,
+    "eqeqeq": true,
+    "forin": true,
+    "undef": true,
+    "latedef": false,
+    "globals": {
+        "console": true,
+        "document": true,
+        "requestAnimationFrame": true,
+        "addEventListener": true,
+        "removeEventListener": true
+    }
+}
